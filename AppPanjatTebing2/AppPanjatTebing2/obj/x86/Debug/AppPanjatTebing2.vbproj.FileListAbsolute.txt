@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\bin\Debug\AppPanjatTebing2.exe
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\bin\Debug\AppPanjatTebing2.pdb
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\bin\Debug\AppPanjatTebing2.xml
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormMenuUtama.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.vbproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.exe
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.xml
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.pdb
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormLogin.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormPetugas.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormMember.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormAlat.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormPeminjaman.resources
+C:\Users\ASUS\OneDrive\Documents\Semester 7\Pemrograman Visual\Project\AppPanjatTebing2\AppPanjatTebing2\obj\x86\Debug\AppPanjatTebing2.FormPengembalian.resources
